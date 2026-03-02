@@ -12,6 +12,13 @@ App B (:appb)
 - Supports Add, Edit, and Delete operations.
 
 
+PROJECT STRUCTURE
+
+AlbumsTwoApps/
+│
+├── appa/   -> App A (Room + ContentProvider)
+└── appb/   -> App B (RecyclerView UI + ViewModel + Repository)
+
 ------------------------------------------------------------
 
 BUILD CONFIGURATION
